@@ -1,0 +1,9 @@
+{
+  "sublime_text": "*",
+  "dependencies": [],
+  "version": "0.0.1",
+  "description": "Go show definition plugin.",
+  "platforms": [
+    "*"
+  ]
+}
